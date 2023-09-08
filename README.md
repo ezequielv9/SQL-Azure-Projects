@@ -13,3 +13,6 @@ Synapse could be the one and only application I would need to Create the Data La
 The final step is using Power Bi or Tablue to create the Data visualization of this Project and Develop the questions for the SQL Queries.
 
 ![image](https://github.com/ezequielv9/SQL-Azure-Projects/assets/122133958/d2cd5e55-c365-46a7-a78d-a98db0030a7a)
+
+
+Got to the final step for data visualization however due to Power BI being locked to work-related accounts I'm unable to utilize the software, But I was able to gather CSV reports using SSMS. 
