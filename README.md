@@ -11,3 +11,5 @@ The third task would be to create a Resource Group, Storage Acct, and finally a 
 Synapse could be the one and only application I would need to Create the Data Lake and Data Factory however this is to showcase my proficiency in the other Software and see where my capabilities are at right now.
 
 The final step is using Power Bi or Tablue to create the Data visualization of this Project and Develop the questions for the SQL Queries.
+
+![image](https://github.com/ezequielv9/SQL-Azure-Projects/assets/122133958/d2cd5e55-c365-46a7-a78d-a98db0030a7a)
